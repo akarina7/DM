@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HitBox
+  - FadeToBlack
+  - FadeFromBlack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Clickable
+  - player
+  - Player
+  - Enemies
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 174971927
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1178219693
+    locked: 0
+  - name: Player
+    uniqueID: 921635393
+    locked: 0
+  - name: Enemies
+    uniqueID: 4183839453
+    locked: 0
+  - name: Environment
+    uniqueID: 4177352945
+    locked: 0

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: bb593b39aff7d2e4bb27e433e02d9d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3181457323072095766
+    second: Ranged Pitbulls - Mirrored_6
+  - first:
+      213: 7209259148363254348
+    second: Ranged Pitbulls - Mirrored_14
+  - first:
+      213: 3231464293623039959
+    second: Ranged Pitbulls - Mirrored_15
+  - first:
+      213: 5095979034584759696
+    second: Ranged Pitbulls - Mirrored_16
+  - first:
+      213: 7135558046984745745
+    second: Ranged Pitbulls - Mirrored_23
+  - first:
+      213: 1451040083111741386
+    second: Ranged Pitbulls - Mirrored_24
+  - first:
+      213: 7918659363307815471
+    second: Ranged Pitbulls - Mirrored_25
+  - first:
+      213: 8767266934350326376
+    second: Ranged Pitbulls - Mirrored_26
+  - first:
+      213: 4942142048930312417
+    second: Ranged Pitbulls - Mirrored_33
+  - first:
+      213: 2162446283956748754
+    second: Ranged Pitbulls - Mirrored_39
+  - first:
+      213: -8519036095442910311
+    second: Ranged Pitbulls - Mirrored_40
+  - first:
+      213: 7586210156649070258
+    second: Ranged Pitbulls - Mirrored_41
+  - first:
+      213: 8874661080101779111
+    second: Ranged Pitbulls - Mirrored_42
+  - first:
+      213: 237485245804764448
+    second: Ranged Pitbulls - Mirrored_43
+  - first:
+      213: 8930649926779109746
+    second: Ranged Pitbulls - Mirrored_44
+  - first:
+      213: 1347352587432030319
+    second: Ranged Pitbulls - Mirrored_45
+  - first:
+      213: 8839364006044357717
+    second: Ranged Pitbulls - Mirrored_46
+  - first:
+      213: -5867775677556833487
+    second: Ranged Pitbulls - Mirrored_47
+  - first:
+      213: -7885580947466771472
+    second: Ranged Pitbulls - Mirrored_48
+  - first:
+      213: 4183096392927565012
+    second: Ranged Pitbulls - Mirrored_49
+  - first:
+      213: -4460053388858138713
+    second: Ranged Pitbulls - Mirrored_50
+  - first:
+      213: 5120053514826988215
+    second: Ranged Pitbulls - Mirrored_51
+  - first:
+      213: 2751591833520572167
+    second: Ranged Pitbulls - Mirrored_52
+  - first:
+      213: -4218924845790816968
+    second: Ranged Pitbulls - Mirrored_53
+  - first:
+      213: -3363300599318717379
+    second: Ranged Pitbulls - Mirrored_54
+  - first:
+      213: 3510158578440635835
+    second: Ranged Pitbulls - Mirrored_55
+  - first:
+      213: 8787365031610531443
+    second: Ranged Pitbulls - Mirrored_58
+  - first:
+      213: -472308090446936008
+    second: Ranged Pitbulls - Mirrored_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 537
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e635fa00202c84fa3a381ab7f822bb
+      internalID: -3181457323072095766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 473
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd9d644ea684f4da2e744af065838c
+      internalID: 7209259148363254348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 473
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643e68409ad9c94099555325654bf3a
+      internalID: 3231464293623039959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 473
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685fde0ac37480543883a460a3ca14d7
+      internalID: 5095979034584759696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 409
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72960e4c0c4c827459727e4f0e5c02ec
+      internalID: 7135558046984745745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 409
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f6d4d840cd4ed488c4136251787019
+      internalID: 1451040083111741386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 409
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df73c4eea44385f41a78c78c7ee454b8
+      internalID: 7918659363307815471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 345
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55743fbe312ae4047840a4cd71d24b4a
+      internalID: 4942142048930312417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 301
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de3c6351b36f744ac2a88579f43288
+      internalID: 2162446283956748754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 305
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b18b46c5b3a64589ffb4e55116ad6
+      internalID: -8519036095442910311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d661d4e988b8345a4840c970ff7959
+      internalID: 7586210156649070258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 306
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf297a9c44e824cb848e91b59af755
+      internalID: 8874661080101779111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 301
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481a53921d2a0b42a930cc856d9894d
+      internalID: 237485245804764448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b54302d10bfce34e962aaddc21caf5d
+      internalID: 8930649926779109746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 299
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc70700f02d24468b4f28c02b50964
+      internalID: 1347352587432030319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc461108386cff44992444fca3cd33e7
+      internalID: 8839364006044357717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 299
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87f42078c18f047bfbe848b0b0a323
+      internalID: -5867775677556833487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 281
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dae83f86a4fb648a4a6818ef387fb2
+      internalID: -7885580947466771472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 281
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473e4024283fd24893741001376ce37
+      internalID: 4183096392927565012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 281
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd614deb9dff047bab5c9c0a25ba64
+      internalID: -4460053388858138713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b013c7ddf47d4bb80d0ea740ae31f
+      internalID: 5120053514826988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611cfbd099cc8164fbd1846b76a626d9
+      internalID: 2751591833520572167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2306695d49f24cb096ed30a9d513d
+      internalID: -4218924845790816968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62314c4cf6af39648b0ab2492e13a915
+      internalID: -3363300599318717379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73953056813a34848a65b97b7110c266
+      internalID: 3510158578440635835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 217
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b10ada99fa61459c4ca4c2f14080d
+      internalID: 8787365031610531443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged Pitbulls - Mirrored_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 217
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b807ca5e3c7a6544837a2d035d78b53
+      internalID: -472308090446936008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

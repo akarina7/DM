@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd047c5617004640ac3e26f6b9b8b75, type: 3}
+  m_Name: Walbark-NPC3
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterName: Cyrus
+    characterImage: {fileID: 21300000, guid: c0828a0532c2ef44287f7fa2e8b14525, type: 3}
+    characterScript: I wonder what the interior would look like? Will it be just like
+      a bread store?

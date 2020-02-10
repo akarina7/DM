@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: acaac35be6b695d4689de56fd0c7fea1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2354465407255756331
+    second: Male NPCs_Mirror_0
+  - first:
+      213: 3636262087799728073
+    second: Male NPCs_Mirror_1
+  - first:
+      213: -1309527130587847595
+    second: Male NPCs_Mirror_2
+  - first:
+      213: -480941273403479781
+    second: Male NPCs_Mirror_3
+  - first:
+      213: 932479347355400809
+    second: Male NPCs_Mirror_4
+  - first:
+      213: -3595062992468278025
+    second: Male NPCs_Mirror_5
+  - first:
+      213: -5234362275264504336
+    second: Male NPCs_Mirror_6
+  - first:
+      213: -588815452681899615
+    second: Male NPCs_Mirror_7
+  - first:
+      213: -5098422128504275159
+    second: Male NPCs_Mirror_8
+  - first:
+      213: -4364710197634748328
+    second: Male NPCs_Mirror_9
+  - first:
+      213: -6627299787393994688
+    second: Male NPCs_Mirror_10
+  - first:
+      213: 2141551737549730350
+    second: Male NPCs_Mirror_11
+  - first:
+      213: -207361138024068860
+    second: Male NPCs_Mirror_12
+  - first:
+      213: 6118713517467955341
+    second: Male NPCs_Mirror_13
+  - first:
+      213: -4271996394569577872
+    second: Male NPCs_Mirror_14
+  - first:
+      213: 9188985748421666986
+    second: Male NPCs_Mirror_15
+  - first:
+      213: 6260725994693362811
+    second: Male NPCs_Mirror_16
+  - first:
+      213: -5019701872614264359
+    second: Male NPCs_Mirror_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 494
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd61698bcd210d499ba8e2776bb0db0
+      internalID: 2354465407255756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 494
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1045b0d3ca5d48a1710c0ceec99a3
+      internalID: 3636262087799728073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 494
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4648328c0c3f40b0e5383813c2c39
+      internalID: -1309527130587847595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 500
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cbbce72dc3d7f46be22ee5a2df1a48
+      internalID: -480941273403479781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 500
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c4dba152c0e7458cc55583d4de1f8
+      internalID: 932479347355400809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 500
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858f572d67bd824cb62ac00aa4bb77a
+      internalID: -3595062992468278025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 501
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7c2113b69a3b458a88a60e5af2a3d
+      internalID: -5234362275264504336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 501
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3c87dab58fd641a044585d04caa99
+      internalID: -588815452681899615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 501
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47d4d1aacd01e4a8c2f947fd4cfb0c
+      internalID: -5098422128504275159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 430
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21711d16b412c624ebae406ede5ff5e5
+      internalID: -4364710197634748328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 430
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66005573df056d44bf409245390fb76
+      internalID: -6627299787393994688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 430
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80736f7a49d63b249b833e8a6c9a7942
+      internalID: 2141551737549730350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 436
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db600c129a61ca40954cc3807159a90
+      internalID: -207361138024068860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 436
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7a32196d961f49934f028c98510b6
+      internalID: 6118713517467955341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 436
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bbb19b895cfda4298cc465932a3860
+      internalID: -4271996394569577872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 437
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dac5fece7421b44b309f0108aa6527
+      internalID: 9188985748421666986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 437
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c57d882860434c8b9eaf53e10ba1e
+      internalID: 6260725994693362811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male NPCs_Mirror_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 437
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dca3809c30f534f8f565496655237e
+      internalID: -5019701872614264359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

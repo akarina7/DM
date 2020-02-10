@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 8d95f0d2dcb444af2847c5aa9ee32f54
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: 2f65633f4555a48249c7fff996c72174
+  - enabled: 1
+    path: Assets/Mafia_Base2.unity
+    guid: e51ce000501004208b98ced06af0f77f
+  - enabled: 1
+    path: Assets/DM_Overworld_RankC.unity
+    guid: 176ecb33d2a886e4c8c39e2151ecd4f7
+  - enabled: 1
+    path: Assets/code/CombatScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Mafia_Base.unity
+    guid: ddfa72f2671c08c4c8e27058231d2e50
+  - enabled: 0
+    path: Assets/Walbarkinside.unity
+    guid: e44cd24dd513a2348a017707c54fada2
+  m_configObjects: {}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd047c5617004640ac3e26f6b9b8b75, type: 3}
+  m_Name: TinyIntro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: 'What? What happened... '
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: YOU! You're the one who dognapped me! Where am I?
+  - characterName: ???
+    characterImage: {fileID: 21300000, guid: 0bf6993060865d9408127c1243ec643f, type: 3}
+    characterScript: Relax, relax. The name's Tiny.
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: Ti--Tiny? You? ... Tiny... Are--are you sure?
+  - characterName: Tiny
+    characterImage: {fileID: 21300000, guid: 0bf6993060865d9408127c1243ec643f, type: 3}
+    characterScript: Don't get testy with me, pipsqueak! For now, I'm gonna unties
+      ya. But don't try makin' a run for it. You's is part of the family now, and
+      anyone who tries to leave the family don't live to tell another tale.
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: (Well, there goes my escape plan... But these new clothes...
+      I didn't have them on before.)
+  - characterName: Tiny
+    characterImage: {fileID: 21300000, guid: 0bf6993060865d9408127c1243ec643f, type: 3}
+    characterScript: What's the mattuh? Why aren't ya movin?
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: You still have me tied up!
+  - characterName: Tiny
+    characterImage: {fileID: 21300000, guid: 0bf6993060865d9408127c1243ec643f, type: 3}
+    characterScript: 'Did ya even try using W,A,S,D? Since you''s a little slow on
+      that too, come to me and press SPACEBAR when you''s is ready to talk.
+
+'

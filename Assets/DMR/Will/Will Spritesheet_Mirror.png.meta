@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 100ec7e9aa42a22449c44929ef1fdc61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1075565129970703554
+    second: Will Spritesheet_Mirror_0
+  - first:
+      213: 7127022399748365559
+    second: Will Spritesheet_Mirror_1
+  - first:
+      213: 3907142383803339728
+    second: Will Spritesheet_Mirror_2
+  - first:
+      213: 1513086504649001665
+    second: Will Spritesheet_Mirror_3
+  - first:
+      213: -4994423226571165
+    second: Will Spritesheet_Mirror_4
+  - first:
+      213: -484156180346247917
+    second: Will Spritesheet_Mirror_5
+  - first:
+      213: -8653127701237526191
+    second: Will Spritesheet_Mirror_6
+  - first:
+      213: -3368390792313014762
+    second: Will Spritesheet_Mirror_7
+  - first:
+      213: 3925117020983748480
+    second: Will Spritesheet_Mirror_8
+  - first:
+      213: -2700457140786864850
+    second: Will Spritesheet_Mirror_9
+  - first:
+      213: 8199060986348078400
+    second: Will Spritesheet_Mirror_10
+  - first:
+      213: 7480216879773780119
+    second: Will Spritesheet_Mirror_11
+  - first:
+      213: 4596210460234227426
+    second: Will Spritesheet_Mirror_12
+  - first:
+      213: 8957529078473055310
+    second: Will Spritesheet_Mirror_13
+  - first:
+      213: -332539908553305835
+    second: Will Spritesheet_Mirror_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 146, y: 343, z: 625, w: 199}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 344
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.69817764, y: 0.011857466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec1a5ed1753ae6409319014b852e58d
+      internalID: -1075565129970703554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 344
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.67731595, y: 0.0019958497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e108b46cbc2684aa5d2385b98dc775
+      internalID: 7127022399748365559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 344
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.67731655, y: 0.008787335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8e2abe72811346944d1d60e61e7b1
+      internalID: 3907142383803339728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6668854, y: 0.009771494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3fcad2775edb44a69546e07420cce
+      internalID: 1513086504649001665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.67731655, y: -0.001446418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3ee13623918048a923360fbbb1d92
+      internalID: -4994423226571165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 344
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6668854, y: 0.006926935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1e9480b5535b44be695b289004b29
+      internalID: -484156180346247917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 344
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.67731655, y: -0.0029346813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e85cf777c70a943bf90556a1c3d637
+      internalID: -8653127701237526191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.58474684, y: -0.0029346813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6787462df01f348bd9712cd01559e2
+      internalID: -3368390792313014762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 261
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5879533, y: -0.007865767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5942eedca808aa43919eeea358a1161
+      internalID: 3925117020983748480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 261
+        width: 38
+        height: 55
+      alignment: 9
+      pivot: {x: 0.59991217, y: 0.0069263806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40759f1f8a5e27d4da1ba680dcdcdf36
+      internalID: -2700457140786864850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 261
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5753301, y: 0.0019958497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc970b7019124444a559e6703207d5e
+      internalID: 8199060986348078400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 261
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.59322166, y: 0.011857466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07694747c31d24bb0349192b47a105
+      internalID: 7480216879773780119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 261
+        width: 33
+        height: 55
+      alignment: 9
+      pivot: {x: 0.59039676, y: 0.011857466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b51c6f28f057db4685d9cca25be3651
+      internalID: 4596210460234227426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 261
+        width: 29
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6215673, y: 0.0069263806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b69138c15337f42b9b0300201546db
+      internalID: 8957529078473055310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_Mirror_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 189
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.68320876, y: 0.03299818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736e1d15501aa444acdc6bf9bdbaa49
+      internalID: -332539908553305835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

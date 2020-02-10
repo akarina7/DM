@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd047c5617004640ac3e26f6b9b8b75, type: 3}
+  m_Name: Delilah1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterName: ???
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: How do you do, fine stranger?
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: fa1b1ed4569859a4aa64aa3e321b12e7, type: 3}
+    characterScript: I'm looking for a Ms. Delilah. Would I be looking in the right
+      place?
+  - characterName: Ms. Delilah
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: Indeed you are. I am Ms. Delilah. And may I ask, who exactly
+      are you?
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: fa1b1ed4569859a4aa64aa3e321b12e7, type: 3}
+    characterScript: Tiny asked a favor of me to see what's going on with the new
+      business in town. I believe by the name of...Wal-Bark?
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 30d9704a7d6171044bdcec656528924f, type: 3}
+    characterScript: Know anythin' about it?
+  - characterName: Ms. Deliliah
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: 'From what I''ve gathered, it seems as though Wal-Bark is still
+      under construction. '
+  - characterName: Ms. Deliliah
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: However, over yonder you'll be able to locate a yellow building
+      that houses all of the treasuryy that currently supplies the funding to this
+      construction.
+  - characterName: Ms. Deliliah
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: Be it may, but that is all of the information that I have attained.
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: 0a804bf34bcbe8b40a5ca5f230c453cb, type: 3}
+    characterScript: Thanks. You've been a great help, lady.
+  - characterName: Ms. Delilah
+    characterImage: {fileID: 21300000, guid: fe713e81880caca4e9f2a4472cb76a6b, type: 3}
+    characterScript: That's Ms. Delilah to you.
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: fa1b1ed4569859a4aa64aa3e321b12e7, type: 3}
+    characterScript: Heh. right...
+  - characterName: Will
+    characterImage: {fileID: 21300000, guid: ff216ab4bcccf504eb6d9bc690734618, type: 3}
+    characterScript: I think it's about time to head back to Tiny.

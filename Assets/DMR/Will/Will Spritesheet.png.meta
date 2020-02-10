@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: bb58a3a2887e86d429d8e0fade67e657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8871338511293568994
+    second: Will Spritesheet_0
+  - first:
+      213: -5103117714212049099
+    second: Will Spritesheet_2
+  - first:
+      213: 3642268637025557522
+    second: Will Spritesheet_3
+  - first:
+      213: 2014163815725391000
+    second: Will Spritesheet_4
+  - first:
+      213: 5547055886869448227
+    second: Will Spritesheet_5
+  - first:
+      213: -8891531421848966258
+    second: Will Spritesheet_6
+  - first:
+      213: -8285333022618378037
+    second: Will Spritesheet_7
+  - first:
+      213: -5531202334108526639
+    second: Will Spritesheet_8
+  - first:
+      213: 749521667939611602
+    second: Will Spritesheet_9
+  - first:
+      213: 1207324256046796938
+    second: Will Spritesheet_15
+  - first:
+      213: -3645814733266663027
+    second: Will Spritesheet_16
+  - first:
+      213: 1218196896344244063
+    second: Will Spritesheet_17
+  - first:
+      213: -4606649391720898953
+    second: Will Spritesheet_18
+  - first:
+      213: -7194502907829470519
+    second: Will Spritesheet_19
+  - first:
+      213: 3973092744407176982
+    second: Will Spritesheet_20
+  - first:
+      213: 5348763664785351379
+    second: Will Spritesheet_21
+  - first:
+      213: 4652794144075125165
+    second: Will Spritesheet_22
+  - first:
+      213: 8073021935039468326
+    second: Will Spritesheet_1
+  - first:
+      213: -1222930868561453078
+    second: Will Spritesheet_10
+  - first:
+      213: -5208914424485043399
+    second: Will Spritesheet_11
+  - first:
+      213: -4525853490153258504
+    second: Will Spritesheet_12
+  - first:
+      213: -379538146938426579
+    second: Will Spritesheet_13
+  - first:
+      213: -623747530435019141
+    second: Will Spritesheet_14
+  - first:
+      213: -1487792302437517249
+    second: Will Spritesheet_23
+  - first:
+      213: -852239358493277335
+    second: Will Spritesheet_24
+  - first:
+      213: 7017356765342077283
+    second: Will Spritesheet_25
+  - first:
+      213: 3970724117140072392
+    second: Will Spritesheet_26
+  - first:
+      213: 7827693507601269362
+    second: Will Spritesheet_27
+  - first:
+      213: -1209389700056634159
+    second: Will Spritesheet_28
+  - first:
+      213: 6486166434805198601
+    second: Will Spritesheet_29
+  - first:
+      213: -3734945946638898001
+    second: Will Spritesheet_30
+  - first:
+      213: 7171091337588725232
+    second: Will Spritesheet_31
+  - first:
+      213: 3761830524351605827
+    second: Will Spritesheet_32
+  - first:
+      213: 4656933738686155865
+    second: Will Spritesheet_33
+  - first:
+      213: 3769113081057190148
+    second: Will Spritesheet_34
+  - first:
+      213: 4253132425290876758
+    second: Will Spritesheet_35
+  - first:
+      213: -1608455109214766608
+    second: Will Spritesheet_36
+  - first:
+      213: 8858771165099511191
+    second: Will Spritesheet_37
+  - first:
+      213: -6162486036950217141
+    second: Will Spritesheet_38
+  - first:
+      213: 5703406817608173303
+    second: Will Spritesheet_39
+  - first:
+      213: -5501685722927083420
+    second: Will Spritesheet_40
+  - first:
+      213: -7720164385455792280
+    second: Will Spritesheet_41
+  - first:
+      213: -2036388170271576072
+    second: Will Spritesheet_42
+  - first:
+      213: -5423394471063609146
+    second: Will Spritesheet_43
+  - first:
+      213: -370051124535927763
+    second: Will Spritesheet_44
+  - first:
+      213: 8889592179437964507
+    second: Will_attack1_00
+  - first:
+      213: 5552034524099879353
+    second: Will_attack1_01
+  - first:
+      213: 7032192356209099695
+    second: Will_attack1_02
+  - first:
+      213: 7090074552147270314
+    second: Will_attack1_03
+  - first:
+      213: -5420534269483633884
+    second: Will_attack1_04
+  - first:
+      213: -7398818173689205124
+    second: Will_attack2_00
+  - first:
+      213: -408780251219257001
+    second: Will_attack2_01
+  - first:
+      213: 7302910561016194986
+    second: Will_attack2_02
+  - first:
+      213: -3886822593395000530
+    second: Will_attack2_03
+  - first:
+      213: 1749756821460137867
+    second: Will_attack2_04
+  - first:
+      213: 4252311245890475694
+    second: Will_attack2_05
+  - first:
+      213: 5896275223683462073
+    second: Will_attack2_06
+  - first:
+      213: -569323478891844588
+    second: Will_attack2_07
+  - first:
+      213: -5086174378963602645
+    second: Will_attack2_08
+  - first:
+      213: -5444569933608472767
+    second: Will_attack2_09
+  - first:
+      213: -5501781244312051358
+    second: Will_attack2_10
+  - first:
+      213: -742653720359596398
+    second: Will_attack2_11
+  - first:
+      213: -2490903414755661856
+    second: Will Spritesheet_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 77, y: 537, z: 688, w: 7}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Will Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 537
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.29839003, y: 0.0014726119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063435e70bacb440ac4090dca044f0d
+      internalID: -5103117714212049099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 537
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31389853, y: 0.008804599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff64c6e20ed47a43aa5db34f13616fa
+      internalID: 3642268637025557522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 537
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.2906359, y: -0.0021235629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc6e9292153aa4fa1de86a2f8c8249
+      internalID: 2014163815725391000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 537
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3138991, y: 0.0076059196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1d70ae5e081a44a8bc2a3912b6acd
+      internalID: 5547055886869448227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 537
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3061453, y: 0.0054839514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d52071299ebf048996d67c3fe596ac
+      internalID: -8891531421848966258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 537
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3061453, y: 0.00513916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea47cf8b8f80ec4281e0d585c0eb21b
+      internalID: -8285333022618378037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 537
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3147806, y: 0.008699174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a088330128f2f4daca8214046badf8
+      internalID: -5531202334108526639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 473
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f419f2bdbc94db7469097fd616dc500a
+      internalID: -623747530435019141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 473
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a071562af2bb834cbf9a6f89989e730
+      internalID: 1207324256046796938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 473
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c97e07a401b6549b4ae3bd13d6fba9
+      internalID: -3645814733266663027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b903062483d114ebc69151c54db17f
+      internalID: 1218196896344244063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 473
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ffea63f0b1804f8aa3a4e28493eb6
+      internalID: -4606649391720898953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 473
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d58857f915514599557a3ca9a7a31
+      internalID: -7194502907829470519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 473
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646867747ca12749a5549a886530791
+      internalID: 3973092744407176982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 473
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f02c421a0e4cb489e8665ebbd7f8d8
+      internalID: 5348763664785351379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 409
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.33555663, y: -0.005288974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e354a37b0435d044e80c33334706e82a
+      internalID: -1209389700056634159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 409
+        width: 29
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3420368, y: -0.005288974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ebe6225e6e9a4f95ec22b547e8bea
+      internalID: 6486166434805198601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 409
+        width: 33
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3704381, y: 0.0002635609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6883ee99121c0d469844827610075c3
+      internalID: -3734945946638898001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 409
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4045639, y: 0.0002635609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95eaf3045c3c4241afa3ef28746bd1b
+      internalID: 7171091337588725232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 409
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: 0.41516793, y: 0.0058160955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ac1af4fddf5a4d9071e8b147c1c8e
+      internalID: 3761830524351605827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 38
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4115954, y: 0.01136863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb6beefb952c03458b6d1fabe016eb9
+      internalID: 4656933738686155865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 409
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.40920526, y: 0.0002635609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc8fed6ff20a8e46ad36a42bef2ba1f
+      internalID: 3769113081057190148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 409
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44273758, y: 0.0058160955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514f69ffb51fe024bab561ce16f0a123
+      internalID: 4253132425290876758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 345
+        width: 29
+        height: 55
+      alignment: 9
+      pivot: {x: 0.25537977, y: -0.0021900523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082b4fb1e72b4840b45aac185f2ce62
+      internalID: -1608455109214766608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.31717888, y: 0.033985212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb24ac9ba568a4647a7af2fa10ebd765
+      internalID: 8858771165099511191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 217
+        width: 29
+        height: 55
+      alignment: 9
+      pivot: {x: 0.26779622, y: 0.02466514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c44d3e776135b4faede4119a9998b5
+      internalID: -6162486036950217141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf19d5549acefe49b3de6143358d0a2
+      internalID: -7720164385455792280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack1_00
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 153
+        width: 27
+        height: 55
+      alignment: 9
+      pivot: {x: 0.30807722, y: 0.007978405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc840a654b7132a46a5085b2285d9f95
+      internalID: 8889592179437964507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack1_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 153
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31176817, y: 0.0027443625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3f5cd62d1a9a40a3115d1dd818ac2
+      internalID: 5552034524099879353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack1_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 153
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 0.13892455, y: 0.007978405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a841102b81ed4299e7fa223aa1068
+      internalID: 7032192356209099695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack1_03
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 152
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 0.143804, y: 0.028915683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48af9816b2328e4ab67f304d4d1f1d7
+      internalID: 7090074552147270314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack1_04
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 65
+        height: 55
+      alignment: 9
+      pivot: {x: 0.14568059, y: 0.013212725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eea3d0229b38d4ba1b7c84b0abba7f
+      internalID: -5420534269483633884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_00
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.32284194, y: 0.013212725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413fcbf111b4c2459f7bc37915c45b3
+      internalID: -7398818173689205124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_01
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 153
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3228431, y: 0.0027443625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c116a4cf7e5248bc40a19fae32640
+      internalID: -408780251219257001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 153
+        width: 28
+        height: 55
+      alignment: 9
+      pivot: {x: 0.33549717, y: 0.0027443625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fdd6c3fade5f458387b8289c29f69
+      internalID: 7302910561016194986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_03
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 153
+        width: 27
+        height: 55
+      alignment: 9
+      pivot: {x: 0.35072836, y: 0.007978405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058a8d33c1f01a47b73cecb313400d6
+      internalID: -3886822593395000530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_04
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 153
+        width: 28
+        height: 55
+      alignment: 9
+      pivot: {x: 0.36634174, y: 0.0027443625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81ce619b566fd46af12e27c5dbd438
+      internalID: 1749756821460137867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_05
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 153
+        width: 27
+        height: 55
+      alignment: 9
+      pivot: {x: 0.30686215, y: 0.0006550182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ced30a8d234744b5da53bc341fd12
+      internalID: 4252311245890475694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_06
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 88
+        width: 44
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574c8150839ad645a31cdc561648809
+      internalID: 5896275223683462073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_07
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 89
+        width: 60
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2abeaa3df95b4b8eb8078604f2b8f
+      internalID: -569323478891844588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_08
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 59
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d96444e8a3684e8893b305d6d82bc
+      internalID: -5086174378963602645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_09
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 89
+        width: 27
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31973833, y: 0.006976041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b30ae0c76a33846a7a955e218f9e22
+      internalID: -5444569933608472767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 88
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31280518, y: 0.019617116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ac9b63cd4bbb439bce473fff63339
+      internalID: -5501781244312051358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_attack2_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 89
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31280518, y: 0.0006552956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfea3e51ae05314685438c82fa0e5f8
+      internalID: -742653720359596398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78943c17850574ba0fd7ab62203223
+      internalID: -2490903414755661856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 542
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87992650ca886c74ca3dd8a9f0d971de
+      internalID: -8871338511293568994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

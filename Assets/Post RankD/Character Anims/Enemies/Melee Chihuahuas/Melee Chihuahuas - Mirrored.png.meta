@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 8c895dacc89fb464e97e0ec7bc65b754
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6564885748183791018
+    second: Melee Chihuahuas - Mirrored_0
+  - first:
+      213: -7872993237106553752
+    second: Melee Chihuahuas - Mirrored_1
+  - first:
+      213: 7107920475857509412
+    second: Melee Chihuahuas - Mirrored_6
+  - first:
+      213: -870531303575458467
+    second: Melee Chihuahuas - Mirrored_7
+  - first:
+      213: 7063870729189881123
+    second: Melee Chihuahuas - Mirrored_8
+  - first:
+      213: -3731922626173345794
+    second: Melee Chihuahuas - Mirrored_23
+  - first:
+      213: -4252077196299734764
+    second: Melee Chihuahuas - Mirrored_24
+  - first:
+      213: -7704102915745880028
+    second: Melee Chihuahuas - Mirrored_25
+  - first:
+      213: 5043966324293276194
+    second: Melee Chihuahuas - Mirrored_26
+  - first:
+      213: -6041934978878731876
+    second: Melee Chihuahuas - Mirrored_29
+  - first:
+      213: -6822784659572495859
+    second: Melee Chihuahuas - Mirrored_30
+  - first:
+      213: 366349213846068748
+    second: Melee Chihuahuas - Mirrored_31
+  - first:
+      213: -6265849204893556131
+    second: Melee Chihuahuas - Mirrored_55
+  - first:
+      213: 61993851667136866
+    second: Melee Chihuahuas - Mirrored_56
+  - first:
+      213: 8221231756227246089
+    second: Melee Chihuahuas - Mirrored_57
+  - first:
+      213: 1487052943552460111
+    second: Melee Chihuahuas - Mirrored_59
+  - first:
+      213: -6538201852989700497
+    second: Melee Chihuahuas - Mirrored_60
+  - first:
+      213: 4960115826951401073
+    second: Melee Chihuahuas - Mirrored_61
+  - first:
+      213: -3894561457766648767
+    second: Melee Chihuahuas - Mirrored_81
+  - first:
+      213: 3277531470059079997
+    second: Melee Chihuahuas - Mirrored_82
+  - first:
+      213: 1920496392950411488
+    second: Melee Chihuahuas - Mirrored_83
+  - first:
+      213: 7566408992683889281
+    second: Melee Chihuahuas - Mirrored_84
+  - first:
+      213: -4158687886855252689
+    second: Melee Chihuahuas - Mirrored_85
+  - first:
+      213: -1556108439978280331
+    second: Melee Chihuahuas - Mirrored_86
+  - first:
+      213: -9195648469417100644
+    second: Melee Chihuahuas - Mirrored_87
+  - first:
+      213: -5038510836094305807
+    second: Melee Chihuahuas - Mirrored_88
+  - first:
+      213: -5782242086729970242
+    second: Melee Chihuahuas - Mirrored_89
+  - first:
+      213: 6100109871312197146
+    second: Melee Chihuahuas - Mirrored_90
+  - first:
+      213: 8405300681789044816
+    second: Melee Chihuahuas - Mirrored_91
+  - first:
+      213: 9024898902752812010
+    second: Melee Chihuahuas - Mirrored_92
+  - first:
+      213: -5027551793774352025
+    second: Melee Chihuahuas - Mirrored_100
+  - first:
+      213: -6913051082256562675
+    second: Melee Chihuahuas - Mirrored_101
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a7a5c4d5d6e14e96d04b26457107c
+      internalID: -6564885748183791018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a54f9caf3d29249bd0819835e37cbf
+      internalID: -7872993237106553752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11331624ddbc545ac87cedbdac2d8c
+      internalID: 7107920475857509412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 537
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f4351bfee63e41be8cea3b26bedab
+      internalID: -870531303575458467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 537
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7a53b42b87d444856fe0f494e66b9
+      internalID: 7063870729189881123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34391ed3db0ad86459232dc59c18c119
+      internalID: -3731922626173345794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 473
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30707c34f7fcd0940b6b5dee3ba77612
+      internalID: -4252077196299734764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51793707f5c0a40b318e1d328493bb
+      internalID: -7704102915745880028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abaf2279f962b4c8b2259e00283a53
+      internalID: 5043966324293276194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 473
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c37544fe39e14c9d46d3f08cc4c93
+      internalID: -6041934978878731876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee09874966bd7142a39394def558a12
+      internalID: -6822784659572495859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4a698f12f3654bb52c7d13ebb8f32
+      internalID: 366349213846068748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f921337c51e73842b774eb3646ce3bb
+      internalID: -6265849204893556131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4804d198de2e87459ba7726b65dc694
+      internalID: 61993851667136866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e65caa3a143bd4c844ce009b26ad49
+      internalID: 8221231756227246089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 409
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4024177abe274b81661d213d1bb02
+      internalID: 1487052943552460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a3bd3f40ba894ab636f7bcecaf2fa
+      internalID: -6538201852989700497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eff400fbea06640bbf72f631bf629f
+      internalID: 4960115826951401073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 364
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956fcb14dc039a0468a721e9d0bfda82
+      internalID: -3894561457766648767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 365
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a1f3004c067847989e00acef35830
+      internalID: 3277531470059079997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 364
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c0ba1e947b354c9ca647fce9c9c6f
+      internalID: 1920496392950411488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 369
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c436431b9215ca46b9187b0f6612848
+      internalID: 7566408992683889281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 363
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f503247dfbd6c148aa46650227954c9
+      internalID: -4158687886855252689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_86
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 369
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3a503826abd248855310e1f745860
+      internalID: -1556108439978280331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_87
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 364
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a8867d9ce24346b4091689068bf92
+      internalID: -9195648469417100644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 363
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a623142cf62b9f4b90e9eeb9d482dd1
+      internalID: -5038510836094305807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 362
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a106978952c21a54c9aa91cfb3e56113
+      internalID: -5782242086729970242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_90
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 345
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8a871cf5e7b348857ee9006ab519f
+      internalID: 6100109871312197146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_91
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 345
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d6745ac0ba3ce4a942190a1322911f
+      internalID: 8405300681789044816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_92
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 345
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf48eaeab332ba41bb775bd405df74d
+      internalID: 9024898902752812010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_100
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 281
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54185b3805d8a8c458963fb0b2d590dd
+      internalID: -5027551793774352025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas - Mirrored_101
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 281
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d455740f8607474b8250df50c7a634d
+      internalID: -6913051082256562675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

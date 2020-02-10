@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: af4ed9c6a2717bd488f79d001fba90e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8806338223675779227
+    second: Melee Chihuahuas_0
+  - first:
+      213: -2833846986611649870
+    second: Melee Chihuahuas_1
+  - first:
+      213: 1486374658970627130
+    second: Melee Chihuahuas_6
+  - first:
+      213: 8955588988284000592
+    second: Melee Chihuahuas_21
+  - first:
+      213: 5246264926844470654
+    second: Melee Chihuahuas_22
+  - first:
+      213: 4904519072120985676
+    second: Melee Chihuahuas_23
+  - first:
+      213: -2105302945988683293
+    second: Melee Chihuahuas_24
+  - first:
+      213: 6449174503079750394
+    second: Melee Chihuahuas_27
+  - first:
+      213: 7847972293092005197
+    second: Melee Chihuahuas_28
+  - first:
+      213: -1018379275652320832
+    second: Melee Chihuahuas_29
+  - first:
+      213: 4355575527533053830
+    second: Melee Chihuahuas_44
+  - first:
+      213: 5879239278525229766
+    second: Melee Chihuahuas_45
+  - first:
+      213: 5102166458557842132
+    second: Melee Chihuahuas_52
+  - first:
+      213: -8104799414589427079
+    second: Melee Chihuahuas_53
+  - first:
+      213: -1571528542341139022
+    second: Melee Chihuahuas_54
+  - first:
+      213: -6218322513769613221
+    second: Melee Chihuahuas_55
+  - first:
+      213: 6317580403493482503
+    second: Melee Chihuahuas_57
+  - first:
+      213: -1536038102995620473
+    second: Melee Chihuahuas_58
+  - first:
+      213: -1269563359898677167
+    second: Melee Chihuahuas_59
+  - first:
+      213: 2791289231246472288
+    second: Melee Chihuahuas_88
+  - first:
+      213: -2610594028906225133
+    second: Melee Chihuahuas_89
+  - first:
+      213: -5102482575365113494
+    second: Melee Chihuahuas_90
+  - first:
+      213: 5304647518683979816
+    second: Melee Chihuahuas_98
+  - first:
+      213: -7154831903468192762
+    second: Melee Chihuahuas_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melee Chihuahuas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbb6b4051d38bf44b154f747ef8fc80
+      internalID: -8806338223675779227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ff24a7d380a04ea47ace1a5eb1b86
+      internalID: -2833846986611649870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 537
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b33ce9d28baa741b4cec907e6653f7
+      internalID: 1486374658970627130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 473
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d3c092d5805f14eae1fc6810457490
+      internalID: 5246264926844470654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6636a67c8b891a4aa8afb72bdca9f95
+      internalID: 4904519072120985676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040ac742ef486c4fb8414c0cbfbc54c
+      internalID: -2105302945988683293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 473
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d3919132a7fb4b9832ca3f9a60a7d
+      internalID: 6449174503079750394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491c30b2e6b9c8499485fef1ba82f1e
+      internalID: 7847972293092005197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 473
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf9b65f6dbbb94692217298f2116c1
+      internalID: -1018379275652320832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf590d7dc8fed2449b4aea3e296d84c
+      internalID: -8104799414589427079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facb87779e192f4a991662850d72402
+      internalID: -1571528542341139022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd7777c82e2fa45b60557d4300008e
+      internalID: -6218322513769613221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b0323972e358e46b566a44d2c0e8c2
+      internalID: 6317580403493482503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_58
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 409
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83391be074eb3cd49849d055b95c1023
+      internalID: -1536038102995620473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 409
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4478ef853c508764d90557a396e6cd79
+      internalID: -1269563359898677167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_88
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 345
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03935f3a5f689469ff51d9d5868a2e
+      internalID: 2791289231246472288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_89
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 345
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3dfffb926215941986c8bba65169d3
+      internalID: -2610594028906225133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 345
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f646b971757db374f964eb769fe9dbb2
+      internalID: -5102482575365113494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 281
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06bd8add8309749a92431c5d9184cb
+      internalID: 5304647518683979816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Chihuahuas_99
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 281
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7ab711ee7eab4a9673b857970732c
+      internalID: -7154831903468192762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

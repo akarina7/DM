@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd047c5617004640ac3e26f6b9b8b75, type: 3}
+  m_Name: Intro1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterName: Will
+    characterImage: {fileID: 0}
+    characterScript: Another day, another steal. This time I got quite lucky since
+      that old bat Margaret wasn't looking. It's getting quite late. Better head back
+      to the slums if I want a fresh start tomorrow.
+  - characterName: 
+    characterImage: {fileID: 0}
+    characterScript: '............'
+  - characterName: Will
+    characterImage: {fileID: 0}
+    characterScript: GAH! Let me go!
+  - characterName: ???
+    characterImage: {fileID: 0}
+    characterScript: As if, pipsqueak! You'd needs a hundred of ya if ya think ya
+      can break loose. You's is comin' with me!
+  - characterName: Will
+    characterImage: {fileID: 0}
+    characterScript: (It's too dark! I can't see who's dognapping me!)
+  - characterName: Will
+    characterImage: {fileID: 0}
+    characterScript: Untie my paws and unblindfold me before I...I--
+  - characterName: ???
+    characterImage: {fileID: 0}
+    characterScript: Or you'll what? You's can't do nothing. So be a good pup and
+      listen or you's won't have ears to listen with.
+  - characterName: 
+    characterImage: {fileID: 0}
+    characterScript: '............'
+  - characterName: ???
+    characterImage: {fileID: 0}
+    characterScript: Will ya quit resistin'! Be careful or you's is gonna fall out
+      the carriag--
+  - characterName: Tiny
+    characterImage: {fileID: 0}
+    characterScript: Out like a light. This is gonna be easiah than I thought.

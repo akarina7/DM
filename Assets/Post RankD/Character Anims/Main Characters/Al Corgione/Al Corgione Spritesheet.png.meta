@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: d2125857fb2663c418491082821c715c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7933350204769111639
+    second: Al Corgione Spritesheet_0
+  - first:
+      213: 5938126386126053572
+    second: Al Corgione Spritesheet_1
+  - first:
+      213: -3695477951018419141
+    second: Al Corgione Spritesheet_2
+  - first:
+      213: -8690298887519462869
+    second: Al Corgione Spritesheet_3
+  - first:
+      213: 8022297992008244284
+    second: Al Corgione Spritesheet_4
+  - first:
+      213: 6812516468038220358
+    second: Al Corgione Spritesheet_7
+  - first:
+      213: 6764178740686608297
+    second: Al Corgione Spritesheet_8
+  - first:
+      213: -4419484780026629923
+    second: Al Corgione Spritesheet_9
+  - first:
+      213: 6417939020856814374
+    second: Al Corgione Spritesheet_11
+  - first:
+      213: 1480476241101168601
+    second: Al Corgione Spritesheet_13
+  - first:
+      213: 294548982830079625
+    second: Al Corgione Spritesheet_21
+  - first:
+      213: -6486680128501627248
+    second: Al Corgione Spritesheet_22
+  - first:
+      213: 7915106475675134544
+    second: Al Corgione Spritesheet_23
+  - first:
+      213: 7859456689971088325
+    second: Al Corgione Spritesheet_24
+  - first:
+      213: -3399777521214749895
+    second: Al Corgione Spritesheet_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 571
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcecc305c52f5d4fa41311fd709a404
+      internalID: -7933350204769111639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 572
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ec07acf8c4d534bbad2c6744983ea6
+      internalID: 5938126386126053572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded5b70b237cb24297770b586342825
+      internalID: -3695477951018419141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 541
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee19911da47b14790a980ab272a34f
+      internalID: -8690298887519462869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 541
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a90b85df5fc7b4793cd875f3bf5d55
+      internalID: 8022297992008244284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 473
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a51e70d71294544867643edeaf813d
+      internalID: 6812516468038220358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 473
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5590573, y: 0.49999878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63268b8525e928640a8f30031479dfad
+      internalID: 6764178740686608297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 473
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6223335, y: 0.49510497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4fbce52b8c76f42b9d43a113779658
+      internalID: -4419484780026629923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6070452, y: 0.51035386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae31b3da6486d4c8f8bbb59131da27
+      internalID: 6417939020856814374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 473
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6559533, y: 0.50555897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d42783098f11242a320e609921d830
+      internalID: 1480476241101168601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 409
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0151b7b0e01b229498e5365a620f65aa
+      internalID: 294548982830079625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 409
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432713d607c67004ba878bca8078cd61
+      internalID: -6486680128501627248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96866d2a478562a44afb58f36e7440b2
+      internalID: 7915106475675134544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e10c51e6c1dd749a95350b0bd668d8
+      internalID: 7859456689971088325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Corgione Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 577
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba0222771d0b14bbfc1c9300f83001
+      internalID: -3399777521214749895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

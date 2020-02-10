@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: c30c76e76c02a2b45a2e369980787df1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -90162808395311116
+    second: Female NPCs - Mirrored_7
+  - first:
+      213: 2755574623573349967
+    second: Female NPCs - Mirrored_8
+  - first:
+      213: -1838748231757645417
+    second: Female NPCs - Mirrored_9
+  - first:
+      213: 6498741463699013630
+    second: Female NPCs - Mirrored_10
+  - first:
+      213: 3317086988234544938
+    second: Female NPCs - Mirrored_11
+  - first:
+      213: -2068092954468406909
+    second: Female NPCs - Mirrored_12
+  - first:
+      213: 6089227703152543901
+    second: Female NPCs - Mirrored_13
+  - first:
+      213: -5564646913012680293
+    second: Female NPCs - Mirrored_14
+  - first:
+      213: 736487955065681053
+    second: Female NPCs - Mirrored_15
+  - first:
+      213: -665045951007640626
+    second: Female NPCs - Mirrored_21
+  - first:
+      213: 1896626559589045479
+    second: Female NPCs - Mirrored_22
+  - first:
+      213: -4720010452621074001
+    second: Female NPCs - Mirrored_23
+  - first:
+      213: -4530372000625182460
+    second: Female NPCs - Mirrored_24
+  - first:
+      213: 8748291008446746038
+    second: Female NPCs - Mirrored_25
+  - first:
+      213: 2533298987091239615
+    second: Female NPCs - Mirrored_26
+  - first:
+      213: -4034789948479636411
+    second: Female NPCs - Mirrored_27
+  - first:
+      213: 7169132988450658077
+    second: Female NPCs - Mirrored_28
+  - first:
+      213: -8798661414189277746
+    second: Female NPCs - Mirrored_29
+  - first:
+      213: 1409876318952928452
+    second: Female NPCs - Mirrored_30
+  - first:
+      213: -2296308169410124295
+    second: Female NPCs - Mirrored_31
+  - first:
+      213: 8156825133852250842
+    second: Female NPCs - Mirrored_32
+  - first:
+      213: 5428391186995921537
+    second: Female NPCs - Mirrored_33
+  - first:
+      213: -6395885495103597583
+    second: Female NPCs - Mirrored_34
+  - first:
+      213: 3864490863872116017
+    second: Female NPCs - Mirrored_35
+  - first:
+      213: -3939639375843963906
+    second: Female NPCs - Mirrored_36
+  - first:
+      213: -3401313370691497793
+    second: Female NPCs - Mirrored_37
+  - first:
+      213: 911599349990228928
+    second: Female NPCs - Mirrored_38
+  - first:
+      213: 5706450713149325359
+    second: Female NPCs - Mirrored_39
+  - first:
+      213: 1624135299057709815
+    second: Female NPCs - Mirrored_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e46922015cf54baf521af42d691e8
+      internalID: -90162808395311116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 537
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd94ffb39e5ee4ab44c06f327ee3cd
+      internalID: 2755574623573349967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 537
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c5e0637eb6ab4491000404c9b95be
+      internalID: -1838748231757645417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 537
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f7631b5949d94baa5c3dde4dffa5b
+      internalID: 6498741463699013630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 537
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c0e74ca1b2dd4f817a2d659cabce2
+      internalID: 3317086988234544938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 537
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46825bf3928f24cbf297b03a4835e3
+      internalID: -2068092954468406909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 537
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637dd6acbc6fd54fadbf2612371c0ac
+      internalID: 6089227703152543901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 537
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd46fa2f5958d841b79e27a2a552b6c
+      internalID: -5564646913012680293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 537
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32a94a7ba96dc42821675754ac1cb6
+      internalID: 736487955065681053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 473
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0536c60f10426c44ae878e9fa6c2746
+      internalID: -665045951007640626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 473
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7aff920b82a6409acda9904166ff5
+      internalID: 1896626559589045479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 473
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c3bdc6ba0de84b8cc75282295bb76
+      internalID: -4720010452621074001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 473
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777885e83647e74a9d9731f8c42d520
+      internalID: -4530372000625182460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 473
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c975e6f57ca04db8f39c29eaa1fdd
+      internalID: 8748291008446746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 473
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87551973e399c1d48b3bde467525c8b8
+      internalID: 2533298987091239615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 473
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e381f672d5d2354fbe9b56fcb3efae1
+      internalID: -4034789948479636411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 473
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a52dec163b884281613259269ac5e
+      internalID: 7169132988450658077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 473
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98ef71df52f53439f6668c45b67309
+      internalID: -8798661414189277746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 281
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de72d9cb5e9faf4a89a6fa7813955f3
+      internalID: 1409876318952928452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 281
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dae4e7e96c1344999838084b92a43c
+      internalID: -2296308169410124295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 281
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ddd300a3135354a81375e5a43501ca
+      internalID: 8156825133852250842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 281
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6bcbc039fa7745828d20b931ea71b
+      internalID: 5428391186995921537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 281
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b63c2e035208a34a8d416ea955be5cb
+      internalID: -6395885495103597583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 281
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdf80da6a47a04d80d3a8d8d2b471d
+      internalID: 3864490863872116017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 281
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df83121a24e4b48a4adee0831eb815
+      internalID: -3939639375843963906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_37
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 281
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc305786bfbaec4ea31fa7bd53c0744
+      internalID: -3401313370691497793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 217
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe658b730f876409b9784efd923dc9
+      internalID: 911599349990228928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 217
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39c746386f4d34ca275aae35e5b4aa
+      internalID: 5706450713149325359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female NPCs - Mirrored_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 217
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80917acb6f11a04185cb1bdd2626950
+      internalID: 1624135299057709815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
